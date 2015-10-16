@@ -14,7 +14,9 @@ Simply open up Internet Explorer and hit "http://boxstarter.org/package/nr/url?"
 
 **dev.txt**: Simple environment script for installing browsers, Fiddler, Notepad++, NodeJS, and change some annoying windows configurations (i.e. disable UAC, enable remote desktop)
 
-	http://boxstarter.org/package/nr/url?https://github.com/ScottRoutley/boxstarter-scripts/blob/master/dev-vs2013.txt
+	http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/8d78ec00b6f1b382aae313f398b952ac302f0071/dev-vs2013.txt
 
 
+** powershell/command promt command ** 
 
+	START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/8d78ec00b6f1b382aae313f398b952ac302f0071/dev-vs2013.txt
