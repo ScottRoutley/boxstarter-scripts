@@ -19,26 +19,4 @@ Simply open up Internet Explorer and hit "http://boxstarter.org/package/nr/url?"
 	http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/habaneroconsulting/boxstarter-scripts/master/dev.txt
 
 
-**dev-sp.txt**: Same as above, but with additional SharePoint specific installations
 
-	http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/habaneroconsulting/boxstarter-scripts/master/dev-sp.txt
-
-
-**dev-sp-vs2012.txt**: Includes installations for environments with Visual Studio 2012 already installed. ASP.NET web tools and [Web Essentials 2012](http://visualstudiogallery.msdn.microsoft.com/07d54d12-7133-4e15-becb-6f451ea3bea6) extension.
-
-	http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/habaneroconsulting/boxstarter-scripts/master/dev-sp-vs2012.txt
-
-
-**dev-sp-vs2013.txt**: For installations with Visual Studio 2013 installed.
-
-	http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/habaneroconsulting/boxstarter-scripts/master/dev-sp-vs2013.txt
-
-
-**dev-sp-vs2013u4.txt**: For installations with Visual Studio 2013 Update 4 installed.
-
-	http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/habaneroconsulting/boxstarter-scripts/master/dev-sp-vs2013u4.txt
-
-
-**build-sp.txt**: For SharePoint build servers.
-
-	http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/habaneroconsulting/boxstarter-scripts/master/build-sp.txt
