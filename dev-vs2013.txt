@@ -18,6 +18,7 @@ choco install fiddler4
 choco install Firefox
 choco install GoogleChrome
 choco install 7zip
+choco install adobereader
 choco install nodejs.install
 choco install notepadplusplus.install
 choco install tortoisesvn
