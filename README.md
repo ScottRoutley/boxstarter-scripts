@@ -1,4 +1,4 @@
-# Boxstarter Scripts for SharePoint Development Environment Configuration
+# Boxstarter Scripts for .Net or Sharepoint Development and Environment Configuration
 
 Use these configuration files with [Boxstarter](http://boxstarter.org/) and its [web launcher technique](http://boxstarter.org/WebLauncher).
 
