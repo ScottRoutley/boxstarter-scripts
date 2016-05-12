@@ -16,21 +16,21 @@ Simply open up Internet Explorer and hit "http://boxstarter.org/package/nr/url?"
 
 **dev-vs2013.txt**: Simple environment script for installing browsers, Fiddler, Notepad++, NodeJS, and change some annoying windows configurations (i.e. disable UAC, enable remote desktop)
 
-	http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/8d78ec00b6f1b382aae313f398b952ac302f0071/dev-vs2013.txt
+	http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/dev-vs2013.txt
 
 
 ** powershell/command promt command ** 
 
-	START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/8d78ec00b6f1b382aae313f398b952ac302f0071/dev-vs2013.txt
+	START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/dev-vs2013.txt
 	
 	
 ### Java
 
 **Dev-Java.txt**: Simple environment script for installing browsers, Fiddler, Notepad++, NodeJS, and change some annoying windows configurations (i.e. disable UAC, enable remote desktop)
 
-	http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/8d78ec00b6f1b382aae313f398b952ac302f0071/Dev-Java.txt
+	http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/7d1c6f7d8a6230eb43e5/raw/Dev-Java.txt
 
 
 ** powershell/command promt command ** 
 
-	START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/8d78ec00b6f1b382aae313f398b952ac302f0071/Dev-Java.txt
+	START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/7d1c6f7d8a6230eb43e5/raw/Dev-Java.txt
