@@ -12,7 +12,20 @@ Simply open up Internet Explorer and hit "http://boxstarter.org/package/nr/url?"
 
 ## Boxstarter Scripts
 
-### .Net / Visual Studio
+
+### .Net / Visual Studio 2015
+
+**dev-vs2015.txt**: Simple environment script for installing browsers, Fiddler, Notepad++, NodeJS, and change some annoying windows configurations (i.e. disable UAC, enable remote desktop)
+
+	http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/dev-vs2015.txt
+
+
+** powershell/command promt command ** 
+
+	START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/dev-vs2013.txt
+
+
+### .Net / Visual Studio 2013
 
 **dev-vs2013.txt**: Simple environment script for installing browsers, Fiddler, Notepad++, NodeJS, and change some annoying windows configurations (i.e. disable UAC, enable remote desktop)
 
