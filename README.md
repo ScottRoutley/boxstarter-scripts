@@ -22,7 +22,7 @@ Simply open up Internet Explorer and hit "http://boxstarter.org/package/nr/url?"
 
 ** powershell/command promt command ** 
 
-	START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/dev-vs2013.txt
+	START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/ScottRoutley/5a9375fc6851f16b9a0e/raw/dev-vs2015.txt
 
 
 ### .Net / Visual Studio 2013
